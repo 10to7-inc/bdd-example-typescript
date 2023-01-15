@@ -1,0 +1,2 @@
+# Prevent windows line ending for text files in git
+* text=auto eol=lf

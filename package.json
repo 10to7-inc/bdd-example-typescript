@@ -1,5 +1,5 @@
 {
-  "name": "bdd-exmaple",
+  "name": "bdd-example",
   "version": "1.0.0",
   "description": "BDD with cucumber-js. A typescript example.",
   "main": "index.js",
